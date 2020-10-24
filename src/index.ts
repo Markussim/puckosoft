@@ -1,7 +1,6 @@
 const data = require("./puckosoft.json");
 const token = require("./token.json")
 const Discord = require("discord.js");
-import fs from 'fs';
 
 var client = new Discord.Client();
 
